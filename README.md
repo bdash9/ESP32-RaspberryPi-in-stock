@@ -6,3 +6,7 @@ Here is a CircuitPython script from Adafruit that will configure the Adafruit ES
 
 Origional sourece:
 https://learn.adafruit.com/rpi-stock-alert-alarm
+
+
+Adafruit's ESP32-S2 Feather TFT:
+https://www.adafruit.com/product/5300
